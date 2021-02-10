@@ -1,2 +1,4 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1585426667,1593348722,Default,1609016914
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1608774867,1608774867,"Migrated from /etc/pihole/adlists.list",1612665603
+2,https://mirror1.malwaredomains.com/files/justdomains,1,1608774867,1608774867,"Migrated from /etc/pihole/adlists.list",
+3,https://dbl.oisd.nl/,1,1608810548,1608810721,https://oisd.nl/,1612665626
